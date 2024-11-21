@@ -1,10 +1,11 @@
-Myself Aditya Kushwaha. I am from Varanasi, India.
+Myself **Aditya Kushwaha**. I am from Varanasi, India.  
 
-🧑🏻‍💻 Aspiring Software Engineer.
-⚡ Passionate about coding and building real-world software solutions.
-🔭 Enthusiast in solving problems on top competitive programming platforms like LeetCode and GeeksforGeeks.
-🧑🏻‍💻 AWS Certified Cloud Practitioner.
+🧑🏻‍💻 Aspiring Software Engineer.  
+⚡ Passionate about coding and building real-world software solutions.  
+🔭 Enthusiast in solving problems on top competitive programming platforms like LeetCode and GeeksforGeeks.  
+🧑🏻‍💻 AWS Certified Cloud Practitioner.  
 🌱 Currently learning React.js and DevOps.
+
 
 
 <!---

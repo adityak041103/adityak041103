@@ -1,6 +1,25 @@
-# 💫 About Me:
-Myself *Aditya Kushwaha*. I am from Varanasi, India.<br><br>🧑🏻‍💻 Aspiring Software Engineer.<br>⚡ Passionate about coding and building real-world software solutions.<br>🔭 Enthusiast in solving problems on top competitive programming platforms like LeetCode and GeeksforGeeks.<br>🧑🏻‍💻 AWS Certified Cloud Practitioner.<br>🌱 Currently learning React.js and DevOps.
+# Hi there! I'm Aditya 👋
 
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** & Cloud Enthusiast with a drive to build scalable, real-world solutions that make a difference. I believe in the power of technology, problem-solving, and continuous learning to shape a better future.<br>
+
+**🚀 Expertise:**<br>
+Languages: C, C++, JavaScript<br>
+Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>
+Cloud & Tools: AWS, Salesforce, Git/GitHub<br>
+Soft Skills: Leadership, Collaboration, Public Speaking<br>
+
+**💡 Interests:**<br>
+I'm deeply interested in:<br>
+Developing real-world applications that solve meaningful problems.<br>
+Exploring Cloud Computing & AI-driven solutions.<br>
+Contributing to open-source projects and learning from the community.<br>
+
+**📚 Hobbies:**<br>
+Apart from coding, I enjoy:<br>
+Practicing meditation for focus and mindfulness.<br>
+Reading tech blogs & books to stay updated & learn new things.<br>
+
+**🚀 Let’s connect, learn, and build together!🚀**<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya0411) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.official8808@gmail.com) 
